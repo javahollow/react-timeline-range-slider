@@ -1,14 +1,14 @@
 {
   "name": "react-timeline-range-slider",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "Time Slider component for React",
-  "author": "Elizaveta Shkodkina <lizashkodkina@gmail.com>",
-  "main": "dist/index.js",
+  "author": "Jade H <javahollow@gmail.com>",
+  "main": "dist/index.tsx",
   "license": "MIT",
-  "homepage": "https://github.com/lizashkod/react-time-range-slider",
+  "homepage": "https://github.com/javahollow/react-timeline-range-slider.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lizashkod/react-time-range-slider"
+    "url": "https://github.com/javahollow/react-timeline-range-slider.git"
   },
   "keywords": [
     "react-component",
